@@ -7,7 +7,7 @@ This1 project is **a collection of small and focused tutorials** - each covering
 
 Building the project
 ====================
-To do the full build, do: `mvn clean install`
+To do the full build, do: `mvn clean install` jjj
 
 
 Building a single module
